@@ -1,7 +1,7 @@
 public class Main {
 
     public int generatePrime() {
-        return 6;
+        return 29;
     }
 
     public static void main(String... args){
